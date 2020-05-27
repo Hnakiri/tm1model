@@ -1,0 +1,35 @@
+{
+	"@type":"Process",
+	"Name":"Dim_GEO2_World_Zones",
+	"Code@Code.link":"Dim_GEO2_World_Zones.ti",
+	"DataSource":
+	{
+		"Type":"ASCII",
+		"asciiDecimalSeparator":".",
+		"asciiDelimiterChar":";",
+		"asciiDelimiterType":"Character",
+		"asciiHeaderRecords":1,
+		"asciiQuoteCharacter":"\"",
+		"asciiThousandSeparator":",",
+		"dataSourceNameForClient":"E:\\INTERFACES\\IHS\\Input\\GEO2_WORLD_ZONES.csv",
+		"dataSourceNameForServer":"E:\\INTERFACES\\IHS\\Input\\GEO2_WORLD_ZONES.csv"
+	},
+	"Parameters":[],
+	"Variables":
+	[
+		{
+			"Name":"vPays",
+			"Type":"String",
+			"Position":1,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"vGEO2",
+			"Type":"String",
+			"Position":2,
+			"StartByte":0,
+			"EndByte":0
+		}
+	]
+}

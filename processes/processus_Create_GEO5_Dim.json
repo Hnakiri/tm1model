@@ -1,0 +1,35 @@
+{
+	"@type":"Process",
+	"Name":"processus_Create_GEO5_Dim",
+	"Code@Code.link":"processus_Create_GEO5_Dim.ti",
+	"DataSource":
+	{
+		"Type":"ASCII",
+		"asciiDecimalSeparator":".",
+		"asciiDelimiterChar":";",
+		"asciiDelimiterType":"Character",
+		"asciiHeaderRecords":1,
+		"asciiQuoteCharacter":"\"",
+		"asciiThousandSeparator":",",
+		"dataSourceNameForClient":"E:\\INTERFACES\\IHS\\Input\\GEO5 - ORGA.csv",
+		"dataSourceNameForServer":"E:\\INTERFACES\\IHS\\Input\\GEO5 - ORGA.csv"
+	},
+	"Parameters":[],
+	"Variables":
+	[
+		{
+			"Name":"vPays",
+			"Type":"String",
+			"Position":1,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"vOrga",
+			"Type":"String",
+			"Position":2,
+			"StartByte":0,
+			"EndByte":0
+		}
+	]
+}

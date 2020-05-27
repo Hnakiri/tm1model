@@ -1,0 +1,44 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Dim_Master_Material_BG",
+	"Elements":
+	[
+		{
+			"Name":"Steel",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HDPE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Electric",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NYA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"COEX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BM COEX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Toyota In-house",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FCEV",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

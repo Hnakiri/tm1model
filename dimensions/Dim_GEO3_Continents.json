@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Dim_GEO3_Continents",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Dim_GEO3_Continents')/Hierarchies('Dim_GEO3_Continents')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Dim_GEO3_Continents.hierarchies/Dim_GEO3_Continents.json"
+	]
+}

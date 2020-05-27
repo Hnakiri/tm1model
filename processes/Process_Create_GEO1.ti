@@ -1,0 +1,26 @@
+#region Prolog
+
+#****Begin: Generated Statements***
+DIMENSIONDESTROY('Dim_GEO1');
+DIMENSIONCREATE('Dim_GEO1');
+DIMENSIONSORTORDER('Dim_GEO1','BYNAME','ASCENDING','BYHIERARCHY','ASCENDING');
+#****End: Generated Statements****
+#endregion
+#region Metadata
+
+#****Begin: Generated Statements***
+DIMENSIONELEMENTINSERT('Dim_GEO1','',vPays,'n');
+DIMENSIONELEMENTINSERT('Dim_GEO1','',vGeoIHS,'c');
+DIMENSIONELEMENTCOMPONENTADD('Dim_GEO1',vGeoIHS,vPays,1.000000);
+#****End: Generated Statements****
+#endregion
+#region Data
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion
+#region Epilog
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion

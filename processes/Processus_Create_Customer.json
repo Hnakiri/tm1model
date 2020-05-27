@@ -1,0 +1,35 @@
+{
+	"@type":"Process",
+	"Name":"Processus_Create_Customer",
+	"Code@Code.link":"Processus_Create_Customer.ti",
+	"DataSource":
+	{
+		"Type":"ASCII",
+		"asciiDecimalSeparator":".",
+		"asciiDelimiterChar":";",
+		"asciiDelimiterType":"Character",
+		"asciiHeaderRecords":1,
+		"asciiQuoteCharacter":"\"",
+		"asciiThousandSeparator":",",
+		"dataSourceNameForClient":"E:\\INTERFACES\\IHS\\Input\\Customer.csv",
+		"dataSourceNameForServer":"E:\\INTERFACES\\IHS\\Input\\Customer.csv"
+	},
+	"Parameters":[],
+	"Variables":
+	[
+		{
+			"Name":"vCustomer",
+			"Type":"String",
+			"Position":1,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"vCustmerGroup",
+			"Type":"String",
+			"Position":2,
+			"StartByte":0,
+			"EndByte":0
+		}
+	]
+}

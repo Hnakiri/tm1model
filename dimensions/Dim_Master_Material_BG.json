@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Dim_Master_Material_BG",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Dim_Master_Material_BG')/Hierarchies('Dim_Master_Material_BG')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Dim_Master_Material_BG.hierarchies/Dim_Master_Material_BG.json"
+	]
+}

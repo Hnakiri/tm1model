@@ -1,0 +1,27 @@
+#region Prolog
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+
+#Section Prolog
+
+SaveDataAll;
+
+ExecuteCommand( 'Powershell D:\Operation\Scripts\BACKUP_TM1_Instance_1.0-a.ps1 -instance INSTTONV01', 0 );
+#endregion
+#region Metadata
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion
+#region Data
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion
+#region Epilog
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion

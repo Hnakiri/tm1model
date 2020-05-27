@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Dim_EOP",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Dim_EOP')/Hierarchies('Dim_EOP')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Dim_EOP.hierarchies/Dim_EOP.json"
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"@type":"Process",
+	"Name":"Processus_Create_Dim_Regions",
+	"Code@Code.link":"Processus_Create_Dim_Regions.ti",
+	"DataSource":
+	{
+		"Type":"ASCII",
+		"asciiDecimalSeparator":".",
+		"asciiDelimiterChar":";",
+		"asciiDelimiterType":"Character",
+		"asciiHeaderRecords":1,
+		"asciiQuoteCharacter":"\"",
+		"asciiThousandSeparator":",",
+		"dataSourceNameForClient":"E:\\INTERFACES\\IHS\\Input\\GEO4 - REGIONS.csv",
+		"dataSourceNameForServer":"E:\\INTERFACES\\IHS\\Input\\GEO4 - REGIONS.csv"
+	},
+	"Parameters":[],
+	"Variables":
+	[
+		{
+			"Name":"vPays",
+			"Type":"String",
+			"Position":1,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"vGEO4",
+			"Type":"String",
+			"Position":2,
+			"StartByte":0,
+			"EndByte":0
+		}
+	]
+}

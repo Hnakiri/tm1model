@@ -1,0 +1,26 @@
+#region Prolog
+
+#****Begin: Generated Statements***
+DIMENSIONDESTROY('Dim_Customer2');
+DIMENSIONCREATE('Dim_Customer2');
+DIMENSIONSORTORDER('Dim_Customer2','BYNAME','ASCENDING','BYHIERARCHY','ASCENDING');
+#****End: Generated Statements****
+#endregion
+#region Metadata
+
+#****Begin: Generated Statements***
+DIMENSIONELEMENTINSERT('Dim_Customer2','',vCustomer,'n');
+DIMENSIONELEMENTINSERT('Dim_Customer2','',vCustmerGroup,'c');
+DIMENSIONELEMENTCOMPONENTADD('Dim_Customer2',vCustmerGroup,vCustomer,1.000000);
+#****End: Generated Statements****
+#endregion
+#region Data
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion
+#region Epilog
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion

@@ -1,0 +1,35 @@
+{
+	"@type":"Process",
+	"Name":"Dim_GEO3_Continents",
+	"Code@Code.link":"Dim_GEO3_Continents.ti",
+	"DataSource":
+	{
+		"Type":"ASCII",
+		"asciiDecimalSeparator":".",
+		"asciiDelimiterChar":";",
+		"asciiDelimiterType":"Character",
+		"asciiHeaderRecords":1,
+		"asciiQuoteCharacter":"\"",
+		"asciiThousandSeparator":",",
+		"dataSourceNameForClient":"E:\\INTERFACES\\IHS\\Input\\GEO3_CONTINENTS.csv",
+		"dataSourceNameForServer":"E:\\INTERFACES\\IHS\\Input\\GEO3_CONTINENTS.csv"
+	},
+	"Parameters":[],
+	"Variables":
+	[
+		{
+			"Name":"vPays",
+			"Type":"String",
+			"Position":1,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"VContinent",
+			"Type":"String",
+			"Position":2,
+			"StartByte":0,
+			"EndByte":0
+		}
+	]
+}

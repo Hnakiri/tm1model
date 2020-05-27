@@ -1,0 +1,96 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Dim_Period",
+	"Elements":
+	[
+		{
+			"Name":"Total Year",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2024",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2025",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2026",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2027",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total Year",
+			"ComponentName":"2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Year",
+			"ComponentName":"2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Year",
+			"ComponentName":"2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Year",
+			"ComponentName":"2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Year",
+			"ComponentName":"2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Year",
+			"ComponentName":"2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Year",
+			"ComponentName":"2025",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Year",
+			"ComponentName":"2026",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Year",
+			"ComponentName":"2027",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

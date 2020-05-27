@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Dim_GVW",
+	"Elements":
+	[
+		{
+			"Name":"0-3.5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3.5-6",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

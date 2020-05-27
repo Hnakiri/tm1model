@@ -1,0 +1,24 @@
+#region Prolog
+#****Begin: Generated Statements***
+DIMENSIONDESTROY('Dim_Months');
+DIMENSIONCREATE('Dim_Months');
+DIMENSIONSORTORDER('Dim_Months','BYNAME','ASCENDING','BYHIERARCHY','ASCENDING');
+#****End: Generated Statements****
+#endregion
+#region Metadata
+#****Begin: Generated Statements***
+DIMENSIONELEMENTINSERT('Dim_Months','',vMonth,'n');
+DIMENSIONELEMENTINSERT('Dim_Months','',vSem,'c');
+DIMENSIONELEMENTINSERT('Dim_Months','',VTotal,'c');
+DIMENSIONELEMENTCOMPONENTADD('Dim_Months',vSem,vMonth,1.000000);
+DIMENSIONELEMENTCOMPONENTADD('Dim_Months',VTotal,vSem,1.000000);
+#****End: Generated Statements****
+#endregion
+#region Data
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion
+#region Epilog
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion

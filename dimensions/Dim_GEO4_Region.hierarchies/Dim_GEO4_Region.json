@@ -1,0 +1,1905 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Dim_GEO4_Region",
+	"Elements":
+	[
+		{
+			"Name":"AFRICA EXCL. MIDDLE EAST",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Algeria",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Angola",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Benin",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Botswana",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Burkina Faso",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Burundi",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cabo Verde",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cameroon",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Central African Republic (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Chad",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Comoros (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Congo (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Congo (the Democratic Republic of the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Côte d'Ivoire",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Djibouti",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Equatorial Guinea",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Eritrea",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Eswatini",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ethiopia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Gabon",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Gambia (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ghana",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Guinea",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Guinea-Bissau",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kenya",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lesotho",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Liberia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Madagascar",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Malawi",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mali",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mauritania",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mauritius",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Morocco",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mozambique",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Namibia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Niger (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Nigeria",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rwanda",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sao Tome and Principe",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Senegal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Seychelles",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sierra Leone",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Somalia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"South Africa",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sudan (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tanzania, United Republic of",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Togo",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tunisia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Uganda",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Zambia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Zimbabwe",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Afghanistan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Armenia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Azerbaijan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Bangladesh",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Bhutan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Brunei Darussalam",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cambodia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Georgia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Guam",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hong Kong",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"India",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Indonesia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Japan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kazakhstan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Korea (the Democratic People's Republic of)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Korea (the Republic of)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kyrgyzstan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lao People's Democratic Republic (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Malaysia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Maldives",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mongolia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Myanmar",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Nepal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pakistan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Philippines (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Singapore",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sri Lanka",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Taiwan (Province of China)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tajikistan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Thailand",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Turkmenistan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Uzbekistan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Viet Nam",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CENTRAL EUROPE",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Albania",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Belarus",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Bosnia and Herzegovina",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Bulgaria",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Croatia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Czechia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Estonia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Germany",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Greece",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hungary",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Latvia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lithuania",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Moldova (the Republic of)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Montenegro",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Poland",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Republic of North Macedonia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Romania",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Russian Federation (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Serbia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Slovakia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Slovenia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ukraine",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total_CHINA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"China",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MIDDLE EAST",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Bahrain",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cyprus",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Egypt",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Iran (Islamic Republic of)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Iraq",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Israel",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Jordan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kuwait",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lebanon",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Libya",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Oman",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Palestine, State of",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Qatar",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Saudi Arabia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Syrian Arab Republic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Turkey",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"United Arab Emirates (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Yemen",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NORTH AMERICA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Antigua and Barbuda",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Bahamas (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Barbados",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Belize",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Bermuda",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Canada",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Costa Rica",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cuba",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Dominica",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Dominican Republic (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"El Salvador",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Grenada",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Guatemala",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Haiti",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Honduras",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Jamaica",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mexico",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Nicaragua",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Panama",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Puerto Rico",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Saint Lucia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"United States of America (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Virgin Islands (U.S.)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"OCEANIE",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"American Samoa",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Aruba",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Australia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fiji",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kiribati",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Micronesia (Federated States of)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Nauru",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"New Zealand",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Palau",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Papua New Guinea",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Samoa",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tonga",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tuvalu",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Vanuatu",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"pays non reconnu",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Cayman Islands (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cook Islands (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kosovo",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Marshall Islands (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Saint Kitts and Nevis",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Saint Vincent and the Grenadines",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Solomon Islands",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"South Sudan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Timor-Leste",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Virgin Islands (British)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SOUTH AMERICA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Argentina",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Bolivia (Plurinational State of)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Brazil",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Chile",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Colombia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ecuador",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Guyana",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Paraguay",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Peru",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Suriname",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trinidad and Tobago",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Uruguay",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Venezuela (Bolivarian Republic of)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WESTERN EUROPE",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Andorra",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Austria",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Belgium",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Denmark",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Finland",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"France",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Iceland",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ireland",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Italy",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Liechtenstein",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Luxembourg",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Malta",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Monaco",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Netherlands (the)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Norway",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Portugal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"San Marino",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Spain",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sweden",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Switzerland",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"United Kingdom of Great Britain and Northern Ireland (the)",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Algeria",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Angola",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Benin",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Botswana",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Burkina Faso",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Burundi",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Cabo Verde",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Cameroon",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Central African Republic (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Chad",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Comoros (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Congo (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Congo (the Democratic Republic of the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Côte d'Ivoire",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Djibouti",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Equatorial Guinea",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Eritrea",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Eswatini",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Ethiopia",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Gabon",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Gambia (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Ghana",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Guinea",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Guinea-Bissau",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Kenya",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Lesotho",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Liberia",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Madagascar",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Malawi",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Mali",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Mauritania",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Mauritius",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Morocco",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Mozambique",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Namibia",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Niger (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Nigeria",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Rwanda",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Sao Tome and Principe",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Senegal",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Seychelles",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Sierra Leone",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Somalia",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"South Africa",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Sudan (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Tanzania, United Republic of",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Togo",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Tunisia",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Uganda",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Zambia",
+			"Weight":1
+		},
+		{
+			"ParentName":"AFRICA EXCL. MIDDLE EAST",
+			"ComponentName":"Zimbabwe",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Afghanistan",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Armenia",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Azerbaijan",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Bangladesh",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Bhutan",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Brunei Darussalam",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Cambodia",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Georgia",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Guam",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Hong Kong",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"India",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Indonesia",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Japan",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Kazakhstan",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Korea (the Democratic People's Republic of)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Korea (the Republic of)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Kyrgyzstan",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Lao People's Democratic Republic (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Malaysia",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Maldives",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Mongolia",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Myanmar",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Nepal",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Pakistan",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Philippines (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Singapore",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Sri Lanka",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Taiwan (Province of China)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Tajikistan",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Thailand",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Turkmenistan",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Uzbekistan",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA EXCL. MIDDLE EAST/CHINA",
+			"ComponentName":"Viet Nam",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Albania",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Belarus",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Bosnia and Herzegovina",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Bulgaria",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Croatia",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Czechia",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Estonia",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Germany",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Greece",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Hungary",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Latvia",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Lithuania",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Moldova (the Republic of)",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Montenegro",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Poland",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Republic of North Macedonia",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Romania",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Russian Federation (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Serbia",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Slovakia",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Slovenia",
+			"Weight":1
+		},
+		{
+			"ParentName":"CENTRAL EUROPE",
+			"ComponentName":"Ukraine",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total_CHINA",
+			"ComponentName":"China",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Bahrain",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Cyprus",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Egypt",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Iran (Islamic Republic of)",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Iraq",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Israel",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Jordan",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Kuwait",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Lebanon",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Libya",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Oman",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Palestine, State of",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Qatar",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Saudi Arabia",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Syrian Arab Republic",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Turkey",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"United Arab Emirates (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"MIDDLE EAST",
+			"ComponentName":"Yemen",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Antigua and Barbuda",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Bahamas (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Barbados",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Belize",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Bermuda",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Canada",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Costa Rica",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Cuba",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Dominica",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Dominican Republic (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"El Salvador",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Grenada",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Guatemala",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Haiti",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Honduras",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Jamaica",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Mexico",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Nicaragua",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Panama",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Puerto Rico",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Saint Lucia",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"United States of America (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"NORTH AMERICA",
+			"ComponentName":"Virgin Islands (U.S.)",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"American Samoa",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"Aruba",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"Australia",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"Fiji",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"Kiribati",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"Micronesia (Federated States of)",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"Nauru",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"New Zealand",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"Palau",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"Papua New Guinea",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"Samoa",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"Tonga",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"Tuvalu",
+			"Weight":1
+		},
+		{
+			"ParentName":"OCEANIE",
+			"ComponentName":"Vanuatu",
+			"Weight":1
+		},
+		{
+			"ParentName":"pays non reconnu",
+			"ComponentName":"Cayman Islands (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"pays non reconnu",
+			"ComponentName":"Cook Islands (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"pays non reconnu",
+			"ComponentName":"Kosovo",
+			"Weight":1
+		},
+		{
+			"ParentName":"pays non reconnu",
+			"ComponentName":"Marshall Islands (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"pays non reconnu",
+			"ComponentName":"Saint Kitts and Nevis",
+			"Weight":1
+		},
+		{
+			"ParentName":"pays non reconnu",
+			"ComponentName":"Saint Vincent and the Grenadines",
+			"Weight":1
+		},
+		{
+			"ParentName":"pays non reconnu",
+			"ComponentName":"Solomon Islands",
+			"Weight":1
+		},
+		{
+			"ParentName":"pays non reconnu",
+			"ComponentName":"South Sudan",
+			"Weight":1
+		},
+		{
+			"ParentName":"pays non reconnu",
+			"ComponentName":"Timor-Leste",
+			"Weight":1
+		},
+		{
+			"ParentName":"pays non reconnu",
+			"ComponentName":"Virgin Islands (British)",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Argentina",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Bolivia (Plurinational State of)",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Brazil",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Chile",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Colombia",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Ecuador",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Guyana",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Paraguay",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Peru",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Suriname",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Trinidad and Tobago",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Uruguay",
+			"Weight":1
+		},
+		{
+			"ParentName":"SOUTH AMERICA",
+			"ComponentName":"Venezuela (Bolivarian Republic of)",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Andorra",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Austria",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Belgium",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Denmark",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Finland",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"France",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Iceland",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Ireland",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Italy",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Liechtenstein",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Luxembourg",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Malta",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Monaco",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Netherlands (the)",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Norway",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Portugal",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"San Marino",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Spain",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Sweden",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"Switzerland",
+			"Weight":1
+		},
+		{
+			"ParentName":"WESTERN EUROPE",
+			"ComponentName":"United Kingdom of Great Britain and Northern Ireland (the)",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

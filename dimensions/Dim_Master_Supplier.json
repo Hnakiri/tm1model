@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Dim_Master_Supplier",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Dim_Master_Supplier')/Hierarchies('Dim_Master_Supplier')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Dim_Master_Supplier.hierarchies/Dim_Master_Supplier.json"
+	]
+}

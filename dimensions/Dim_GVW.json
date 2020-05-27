@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Dim_GVW",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Dim_GVW')/Hierarchies('Dim_GVW')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Dim_GVW.hierarchies/Dim_GVW.json"
+	]
+}

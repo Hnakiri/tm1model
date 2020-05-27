@@ -1,0 +1,32 @@
+#region Prolog
+
+#****Begin: Generated Statements***
+OldCubeLogChanges = CUBEGETLOGCHANGES('Cube_IHS_Lines');
+CUBESETLOGCHANGES('Cube_IHS_Lines', 0);
+#****End: Generated Statements****
+#endregion
+#region Metadata
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion
+#region Data
+
+#****Begin: Generated Statements***
+CellPutN(V2019,'Cube_IHS_Lines',Brand,Customer,Vcustomergroup,VDesign,EOP,Country,VGVW,Manufacturer,vValue,Vmnemonic,Nameplate,'2019',Platform,Program,SOP);
+CellPutN(V2020,'Cube_IHS_Lines',Brand,Customer,Vcustomergroup,VDesign,EOP,Country,VGVW,Manufacturer,vValue,Vmnemonic,Nameplate,'2020',Platform,Program,SOP);
+CellPutN(V2021,'Cube_IHS_Lines',Brand,Customer,Vcustomergroup,VDesign,EOP,Country,VGVW,Manufacturer,vValue,Vmnemonic,Nameplate,'2021',Platform,Program,SOP);
+CellPutN(V2022,'Cube_IHS_Lines',Brand,Customer,Vcustomergroup,VDesign,EOP,Country,VGVW,Manufacturer,vValue,Vmnemonic,Nameplate,'2022',Platform,Program,SOP);
+CellPutN(V2023,'Cube_IHS_Lines',Brand,Customer,Vcustomergroup,VDesign,EOP,Country,VGVW,Manufacturer,vValue,Vmnemonic,Nameplate,'2023',Platform,Program,SOP);
+CellPutN(V2024,'Cube_IHS_Lines',Brand,Customer,Vcustomergroup,VDesign,EOP,Country,VGVW,Manufacturer,vValue,Vmnemonic,Nameplate,'2024',Platform,Program,SOP);
+CellPutN(V2025,'Cube_IHS_Lines',Brand,Customer,Vcustomergroup,VDesign,EOP,Country,VGVW,Manufacturer,vValue,Vmnemonic,Nameplate,'2025',Platform,Program,SOP);
+CellPutN(V2026,'Cube_IHS_Lines',Brand,Customer,Vcustomergroup,VDesign,EOP,Country,VGVW,Manufacturer,vValue,Vmnemonic,Nameplate,'2026',Platform,Program,SOP);
+CellPutN(V2027,'Cube_IHS_Lines',Brand,Customer,Vcustomergroup,VDesign,EOP,Country,VGVW,Manufacturer,vValue,Vmnemonic,Nameplate,'2027',Platform,Program,SOP);
+#****End: Generated Statements****
+#endregion
+#region Epilog
+
+#****Begin: Generated Statements***
+CUBESETLOGCHANGES('Cube_IHS_Lines', OldCubeLogChanges);
+#****End: Generated Statements****
+#endregion

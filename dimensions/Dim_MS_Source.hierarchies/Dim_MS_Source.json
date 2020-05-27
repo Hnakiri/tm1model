@@ -1,0 +1,1480 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Dim_MS_Source",
+	"Elements":
+	[
+		{
+			"Name":"0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Nov-18",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hugo C March 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg apr17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"bp 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ford CC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hugo Jan.2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SN sept15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom july16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hugo Mar. 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg aug14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg jan15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R. Blair 11/18",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg jan17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg july16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg jan16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HKJ Jan17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D Grant 11/18",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP july16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg apr14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg mar17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg mar16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"info PB nov17 TBC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Toyota may prefer FTS in Indonesia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H.Zhou Jun12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP nov12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"P. DIEUDONNAT 12/2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PG jan12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H.Zhou dec12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TD july13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP mar14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"supplier Xiezhan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SN dec14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg nov11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SM july12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SP nov15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg dec11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP apr14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D.Grant July15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC aug11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"feb-23",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RP mar14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA Nov-15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom nov14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Yapp/Zoom JV",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA Sept-15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Precision Auto",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Nov17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GB apr13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Era",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R. Blair 11/33",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC RNM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Coherence",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom nov11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Dali & Samir",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RP sept10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"csm: dali & samir",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom March 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cornaglia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Dieter Feb-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom sept14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CKD from Lozorno",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"fev-23",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Eberspaecher",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Jan-17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GB dec-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg june15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom August 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JSL nov15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hyun-ki Sep 2021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg oct15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R. Blair 11/24",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Horie",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom dec16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Jan-16 not in BP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom Jan17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP july15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC Korea nov09",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NAO CC Jul 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Inergy marketing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC RNM 12 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg nov15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R. Blair 11/25",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC Jul12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC Japan may13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RP Jan11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Unipress",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CR oct15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Arnaud may13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg july14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CR nov16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg mar-16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"mkg aug10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg jan13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Dec-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom apr16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"mkg june10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP feb97",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg May12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg june12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Marketing oct 09",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg mar13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg may11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg feb14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JOK mar16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg feb15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg sept-17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DB Oct16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg apr15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg mar14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP may14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"44348",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP oct14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg june13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"From Zharenov Maxim",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP feb15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TAPT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Inergy CC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GB mar10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP apr15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP june12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg May17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP may16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Award",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JS Lee Apr15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Inergy country",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP dec14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP mar13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Export from Tuscaloosa",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg oct14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RW june14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"capcom",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"mkg apr11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP jan12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP sept15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP mar15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Apr10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg apr13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Terry Hugo",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"44866",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AT nov11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HZ sept11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Dec12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom may12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CR nov15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom july13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MS vino july10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP oct15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ST oct16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom nov13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP nov16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"feedback CC RNDS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg oct11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DS jan14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DB Oct-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R. Blair 11/28",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"inergy capcom",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg july13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R. Blair 11/29",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GM dec-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MKG feb12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Inergy BP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"mkg july11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JSL sept14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom Jun16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JB july13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SDL feb12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FL Oct15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Truck MD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MHR feb-16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SN jan17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom mar15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AK mar14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg mar15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"coherence BP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DB sept14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Inergy modified",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hugo March 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP mar16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PG sept16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom Feb17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom mar17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Inergy Bo",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GM asking for plant in Fairfax",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP dec16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"April 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R. Blair 11/27",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MZ July-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CR nov-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP sept13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg sept14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP sept14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg jan11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom Aug16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HKJ June 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg sept16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Nov 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg sept13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Adj",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom may15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP jan16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP may15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg sept15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Dave Grant-11/18",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg dec13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg oct16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Nov-19",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hugo April 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg oct13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP sept16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom sep 17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP Apr17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AT Oct-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hugo 2019 April",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hugo C. Dec 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg  Nov 18",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg nov16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg june16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg May16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Feb-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"P. DIEUDONAT 12/2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GB apr10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NAO CC Sept 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg may15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J Guido 11/18",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hyun-Ki Sept17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP mar17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg july15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom oct15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP june14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom sept-17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hyun-ki Sep 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"award list 2013",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg dec14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg june14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom nov16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg dec16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"guessing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"New line IHS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg apr16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg aug15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AL jan17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP jan17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg feb17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP feb17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Electric",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg jul17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Oplan apr17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP aug15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Gerd Jan14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Clément DURAND 12/2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MT Nov-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Jun13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mgk Aug17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg sept17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg Oct17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg sept12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hao Zhou dec11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FSMD FEB12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PG July-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom nov10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA june12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R. Blair 11/31",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSM Update December - 2008",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MT apr10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom Feb15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IAA 2011",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg sept10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R. Blair 11/32",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RB mar-16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JSL nov-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg dec09",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RP jan12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom May14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom jan13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg nov14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP mar12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MHR dec15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg jan12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP oct16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC china may17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JB - coherence veh",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DS may15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"mkg aug11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP may12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP may15 - Gas Coex / Diesel Mono",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg jan14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Awarded JAN 18",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom feb14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom Oct16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg aug13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RS feedback",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TD jul13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HZ Jun12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom jul-15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC Japan mar13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FL Sept16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Griaud mar13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LG Chemical",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TC aug11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Thai Summit",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NYA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg feb13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Export from Rastatt",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg july17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP feb16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DHAM won by Vitec",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg nov13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MM mar10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JBL may10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"request to GB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PR july11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TD june13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"input CC RNDS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Part of the production in Ettlingen",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom june12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L.Zhang dec12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg may-16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC japan sept13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom oct11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NGFS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP june15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom mar-14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"All tools of previous model to  be re used. Launch is not sure",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg mar12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"may-19",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RA Jun12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sungshin Ind",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP nov15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R. Blair 11/30",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP apr13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP july14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg oct10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GB  Jun12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PG sept14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F.Wei dec12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Award list 2009",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Feedback Georges Mairlot",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mgk Sept17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom mar14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom december 17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg feb16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg oct12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom July-16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg nov12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FL jul17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP June16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasandik?",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BP dec13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Duksung Metal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capcom 17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Inputs manuel bretnacher",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JPK may15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSM Update February - 2009",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DB mar-16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DB  dec16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC RNM 05022020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mkg dec17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Steel",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R. Blair 11/21",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GM CC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Marketing jan10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DG july15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hyun-ki Sep 2020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hugo C Sept17",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

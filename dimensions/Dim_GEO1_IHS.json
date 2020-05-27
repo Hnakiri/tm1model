@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Dim_GEO1_IHS",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Dim_GEO1_IHS')/Hierarchies('Dim_GEO1_IHS')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Dim_GEO1_IHS.hierarchies/Dim_GEO1_IHS.json"
+	]
+}

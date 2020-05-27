@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Dim_GEO4_Region",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Dim_GEO4_Region')/Hierarchies('Dim_GEO4_Region')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Dim_GEO4_Region.hierarchies/Dim_GEO4_Region.json"
+	]
+}

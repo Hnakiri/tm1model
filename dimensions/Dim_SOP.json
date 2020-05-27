@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Dim_SOP",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Dim_SOP')/Hierarchies('Dim_SOP')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Dim_SOP.hierarchies/Dim_SOP.json"
+	]
+}

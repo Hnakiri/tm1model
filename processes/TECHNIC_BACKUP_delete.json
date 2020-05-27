@@ -1,0 +1,11 @@
+{
+	"@type":"Process",
+	"Name":"TECHNIC_BACKUP_delete",
+	"Code@Code.link":"TECHNIC_BACKUP_delete.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":[],
+	"Variables":[]
+}

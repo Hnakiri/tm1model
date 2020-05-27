@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Dim_Mnemonic",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Dim_Mnemonic')/Hierarchies('Dim_Mnemonic')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Dim_Mnemonic.hierarchies/Dim_Mnemonic.json"
+	]
+}

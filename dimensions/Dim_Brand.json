@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Dim_Brand",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Dim_Brand')/Hierarchies('Dim_Brand')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Dim_Brand.hierarchies/Dim_Brand.json"
+	]
+}

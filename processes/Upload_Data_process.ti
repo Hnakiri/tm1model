@@ -1,0 +1,32 @@
+#region Prolog
+
+#****Begin: Generated Statements***
+OldCubeLogChanges = CUBEGETLOGCHANGES('IHS_Market_Data_Cube');
+CUBESETLOGCHANGES('IHS_Market_Data_Cube', 0);
+#****End: Generated Statements****
+#endregion
+#region Metadata
+
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion
+#region Data
+
+#****Begin: Generated Statements***
+CellPutN(V2019,'IHS_Market_Data_Cube',Vmenmonic,Vdesign,Manufacturer,Brand,Customer,Vcustomergroup,Vgvw,Country,SOP,EOP,'2019',Value);
+CellPutN(V2020,'IHS_Market_Data_Cube',Vmenmonic,Vdesign,Manufacturer,Brand,Customer,Vcustomergroup,Vgvw,Country,SOP,EOP,'2020',Value);
+CellPutN(V2021,'IHS_Market_Data_Cube',Vmenmonic,Vdesign,Manufacturer,Brand,Customer,Vcustomergroup,Vgvw,Country,SOP,EOP,'2021',Value);
+CellPutN(V2022,'IHS_Market_Data_Cube',Vmenmonic,Vdesign,Manufacturer,Brand,Customer,Vcustomergroup,Vgvw,Country,SOP,EOP,'2022',Value);
+CellPutN(V2023,'IHS_Market_Data_Cube',Vmenmonic,Vdesign,Manufacturer,Brand,Customer,Vcustomergroup,Vgvw,Country,SOP,EOP,'2023',Value);
+CellPutN(V2024,'IHS_Market_Data_Cube',Vmenmonic,Vdesign,Manufacturer,Brand,Customer,Vcustomergroup,Vgvw,Country,SOP,EOP,'2024',Value);
+CellPutN(V2025,'IHS_Market_Data_Cube',Vmenmonic,Vdesign,Manufacturer,Brand,Customer,Vcustomergroup,Vgvw,Country,SOP,EOP,'2025',Value);
+CellPutN(V2026,'IHS_Market_Data_Cube',Vmenmonic,Vdesign,Manufacturer,Brand,Customer,Vcustomergroup,Vgvw,Country,SOP,EOP,'2026',Value);
+CellPutN(V2027,'IHS_Market_Data_Cube',Vmenmonic,Vdesign,Manufacturer,Brand,Customer,Vcustomergroup,Vgvw,Country,SOP,EOP,'2027',Value);
+#****End: Generated Statements****
+#endregion
+#region Epilog
+
+#****Begin: Generated Statements***
+CUBESETLOGCHANGES('IHS_Market_Data_Cube', OldCubeLogChanges);
+#****End: Generated Statements****
+#endregion

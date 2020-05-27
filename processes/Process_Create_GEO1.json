@@ -1,0 +1,35 @@
+{
+	"@type":"Process",
+	"Name":"Process_Create_GEO1",
+	"Code@Code.link":"Process_Create_GEO1.ti",
+	"DataSource":
+	{
+		"Type":"ASCII",
+		"asciiDecimalSeparator":".",
+		"asciiDelimiterChar":";",
+		"asciiDelimiterType":"Character",
+		"asciiHeaderRecords":1,
+		"asciiQuoteCharacter":"\"",
+		"asciiThousandSeparator":",",
+		"dataSourceNameForClient":"E:\\INTERFACES\\IHS\\Input\\GEO1_IHS.csv",
+		"dataSourceNameForServer":"E:\\INTERFACES\\IHS\\Input\\GEO1_IHS.csv"
+	},
+	"Parameters":[],
+	"Variables":
+	[
+		{
+			"Name":"vPays",
+			"Type":"String",
+			"Position":1,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"vGeoIHS",
+			"Type":"String",
+			"Position":2,
+			"StartByte":0,
+			"EndByte":0
+		}
+	]
+}
